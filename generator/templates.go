@@ -63,7 +63,7 @@ func uzumBankTemplate() *Template {
 			"time": {
 				X:          157,
 				Y:          97,
-				FontSize:   37,
+				FontSize:   52,
 				FontFile:   "Inter-Bold.ttf",
 				Color:      colorWhite,
 				Align:      "left",
