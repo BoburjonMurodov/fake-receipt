@@ -64,7 +64,7 @@ func uzumBankTemplate() *Template {
 				X:          96,
 				Y:          96,
 				FontSize:   43,
-				FontFile:   "SF-Pro.ttf",
+				FontFile:   "Inter-Bold.ttf",
 				Color:      colorWhite,
 				Align:      "left",
 				BlankRect:  [4]float64{60, 64, 350, 56},
