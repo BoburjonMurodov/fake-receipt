@@ -61,9 +61,9 @@ func uzumBankTemplate() *Template {
 		},
 		Fields: map[string]TextField{
 			"time": {
-				X:          82,
-				Y:          97,
-				FontSize:   42,
+				X:          92,
+				Y:          102,
+				FontSize:   48,
 				FontFile:   "Inter-Bold.ttf",
 				Color:      colorWhite,
 				Align:      "left",
