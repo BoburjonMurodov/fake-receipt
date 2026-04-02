@@ -61,13 +61,13 @@ func uzumBankTemplate() *Template {
 		},
 		Fields: map[string]TextField{
 			"time": {
-				X:          96,
-				Y:          96,
-				FontSize:   43,
+				X:          157,
+				Y:          97,
+				FontSize:   37,
 				FontFile:   "Inter-Bold.ttf",
 				Color:      colorWhite,
 				Align:      "left",
-				BlankRect:  [4]float64{60, 64, 350, 56},
+				BlankRect:  [4]float64{147, 64, 213, 57},
 				BlankColor: colorUzumPurple,
 				Auto:       "time",
 			},
